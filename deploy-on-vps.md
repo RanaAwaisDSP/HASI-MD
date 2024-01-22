@@ -41,11 +41,11 @@
       OWNER_NUMBER="923407472645"
       MONGODB_URI="url of mongodb"
       SESSION_ID = "ID-here"
-      THUMB_IMAGE = "https://telegra.ph/file/ea5cfd778d2004c72d965.jpg"
+      THUMB_IMAGE = "https://telegra.ph/file/04fcceebb3156034d34d6.jpg"
       port = 5000
       email = "haseebrashid707@gmail.com"
       global_url = "insta url here"
-      OWNER_NAME = "𝗖𝗛 𝗛𝗔𝗦𝗘𝗘𝗕"
+      OWNER_NAME = "𝙍𝙖𝙣𝙖 𝘼𝙬𝙖𝙞𝙨"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 212
       READ_MESSAGE = false
@@ -57,7 +57,7 @@
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
       THEME= SECKTOR
       WORKTYPE = public
-      PACK_INFO = "𝗖𝗛 𝗛𝗔𝗦𝗘𝗘𝗕; HASI-MD"
+      PACK_INFO = "𝙍𝙖𝙣𝙖 𝘼𝙬𝙖𝙞𝙨; HASI-MD"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```
